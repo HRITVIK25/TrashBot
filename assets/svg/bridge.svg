@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 48 25" style="enable-background:new 0 0 48 25;" xml:space="preserve" >
+<g id="golden-gate-bridge-7_1_">
+ <path d="M42,3.478V0h-2v3.48C38.139,5.781,32.019,12.5,24,12.5c-8.012,0-14.137-6.721-16-9.021V0H6v3.48
+ C5.035,4.673,2.927,7.05,0,9.066v1.238c0.712-0.461,1.379-0.945,2-1.436V15H0v2h5v-2H3V8.042C4.249,6.959,5.262,5.897,6,5.05V22H5
+ v2H4v1h6v-1H9v-2H8V5.05c0.738,0.847,1.751,1.909,3,2.992V15H9v2h30v-2h-2V8.042c1.249-1.083,2.262-2.145,3-2.992V22h-1v2h-1v1h6
+v-1h-1v-2h-1V5.05c0.738,0.847,1.751,1.909,3,2.992V15h-2v2h5v-2h-2V8.869c0.621,0.49,1.288,0.975,2,1.436v-1.24
+ C45.074,7.047,42.966,4.671,42,3.478z M16,15h-4V8.869c1.173,0.927,2.514,1.83,4,2.592V15z M21,15h-4v-3.057
+ c1.246,0.557,2.584,0.998,4,1.267V15z M26,15h-4v-1.63c0.652,0.083,1.318,0.13,2,0.13c0.682,0,1.348-0.047,2-0.13V15z M31,15h-4
+v-1.79c1.416-0.269,2.754-0.71,4-1.267V15z M36,15h-4v-3.539c1.486-0.762,2.827-1.665,4-2.592V15z" fill="#fff"/>
+ <rect x="12" y="24" width="2" height="1" fill="#fff"/>
+ <rect y="24" width="2" height="1" fill="#fff"/>
+<rect x="20" y="24" width="2" height="1" fill="#fff"/>
+ <rect x="16" y="24" width="2" height="1" fill="#fff"/>
+<rect x="26" y="24" width="2" height="1" fill="#fff"/>
+<rect x="34" y="24" width="2" height="1" fill="#fff"/>
+ <rect x="30" y="24" width="2" height="1" fill="#fff"/>
+    <rect x="46" y="24" width="2" height="1" fill="#fff"/>
+</g>
+</svg>
